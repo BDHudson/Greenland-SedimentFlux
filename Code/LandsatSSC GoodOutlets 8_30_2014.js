@@ -1,4 +1,4 @@
-/LandsatSSC GoodOutlets 8_30_2014
+// LandsatSSC GoodOutlets 8_30_2014
 // ----------------------------------------------------------
 // Ben Hudson, BDHudson@Gmail.com
 // started 8-19-2014
